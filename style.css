@@ -74,22 +74,24 @@
      font-size: 15px;
      color: #777;
      text-align: center;
-      margin-top: 20px; 
-     padding: 20px;
+     margin-top: 20px; 
+     padding: 15px;
  
  }
  .sectionP { 
      width: 350px;
-     height: 50px;
+     height: 25px;
      background-color: #ebebeb;
      font-size: 20px;
      color: #777;
-     text-align: center
+     text-align: center;
+     margin-top: 20px;
+     padding: 5px;
 
  }
  
  .footer{
-     width: 800px;
+     width: 900px;
      background-color: #ebebeb;
      padding: 30px;
      text-align: center;
